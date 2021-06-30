@@ -46,6 +46,7 @@ router.use((req, res, next) => {
 });
 
 router.use('/', sampleRoutes);
+router.use(express.static('public'));
 
 router.use((req, res, next) => {
     const error = new Error('Not found');
