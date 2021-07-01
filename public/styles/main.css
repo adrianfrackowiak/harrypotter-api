@@ -23,6 +23,11 @@ body {
   min-height: 100vh;
 }
 
+a {
+  text-decoration: none;
+  color: #a33519;
+}
+
 header {
   width: 100%;
   height: 30vh;
@@ -85,5 +90,20 @@ main .img img {
 
 main .info {
   width: 50%;
+  padding: 0 3rem;
+}
+
+main .info p {
+  width: 80%;
+  margin: 0 0 2rem 0;
+}
+
+main .info ul {
+  margin: 0 0 2rem 0;
+  list-style: none;
+}
+
+main .info ul li {
+  margin: 0 1rem 0 0;
 }
 /*# sourceMappingURL=main.css.map */
