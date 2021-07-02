@@ -1,0 +1,1 @@
+web: nodemon source/server.ts
