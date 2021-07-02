@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "",
     "main": "source/server.ts",
+    "scripts": {
+        "build": "prettier --write source/ && tsc"
+    },
     "author": "",
     "license": "ISC",
     "dependencies": {
