@@ -4,7 +4,7 @@
     "description": "",
     "main": "source/server.ts",
     "scripts": {
-        "build": "del build && prettier --write source/ && tsc"
+        "build": "tsc"
     },
     "author": "",
     "license": "ISC",
