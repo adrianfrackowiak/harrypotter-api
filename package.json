@@ -4,9 +4,10 @@
     "description": "",
     "main": "source/server.ts",
     "scripts": {
-        "build": "rimraf ./build && tsc",
         "start": "npm run build && node build/server.js",
-        "dev": "nodemon build/server.js"
+        "dev": "nodemon build/server.js",
+        "tsc": "tsc",
+        "postinstall": "npm run tsc"
     },
     "author": "",
     "license": "ISC",
