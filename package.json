@@ -4,9 +4,14 @@
     "description": "",
     "main": "source/server.ts",
     "scripts": {
-        "start": "nodemon source/server.ts",
-        "build": "tsc",
-        "postinstall": "npm run build"
+        "ts:watch": "tsc -w",
+        "ts:build": "tsc",
+        "serve": "nodemon dist/server.js",
+        "watch": "concurrently \"npm run ts:watch\" \"npm run serve\"",
+        "build": "npm run ts:build",
+        "prod:serve": "node dist/server.js",
+        "start": "npm run build && npm run prod:serve",
+        "tslint": "tslint -c tslint.json -p tsconfig.json"
     },
     "author": "",
     "license": "ISC",
