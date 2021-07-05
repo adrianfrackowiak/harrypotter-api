@@ -1,44 +1,42 @@
-{
-    "houses": [
-        {
-            "id": 1,
-            "name": "Gryffindor",
-            "founder": "Godric Gryffindor",
-            "animal": "lion",
-            "traits": "brave",
-            "colors": ["scarlet", "gold"],
-            "ghost": "Nearly Headless Nick",
-            "room": "Gryffingor Tower"
-        },
-        {
-            "id": 2,
-            "name": "Hufflepuff",
-            "founder": "Helga Hufflepuff",
-            "animal": "badger",
-            "traits": "loyal",
-            "colors": ["yellow", "black"],
-            "ghost": "Fat Friar",
-            "room": "Hufflepuff Basement"
-        },
-        {
-            "id": 3,
-            "name": "Ravenclaw",
-            "founder": "Rowena Ravenclaw",
-            "animal": "eagle",
-            "traits": "wise",
-            "colors": ["blue", "bronze"],
-            "ghost": "Grey Lady",
-            "room": "Ravenclaw Tower"
-        },
-        {
-            "id": 4,
-            "name": "Slytherin",
-            "founder": "Salazar Slytherin",
-            "animal": "snake",
-            "traits": "cunning",
-            "colors": ["green", "silver"],
-            "ghost": "Bloody Baron",
-            "room": "Slytherin Dungeon"
-        }
-    ]
-}
+[
+    {
+        "id": 1,
+        "name": "Gryffindor",
+        "founder": "Godric Gryffindor",
+        "animal": "lion",
+        "traits": "brave",
+        "colors": ["scarlet", "gold"],
+        "ghost": "Nearly Headless Nick",
+        "room": "Gryffingor Tower"
+    },
+    {
+        "id": 2,
+        "name": "Hufflepuff",
+        "founder": "Helga Hufflepuff",
+        "animal": "badger",
+        "traits": "loyal",
+        "colors": ["yellow", "black"],
+        "ghost": "Fat Friar",
+        "room": "Hufflepuff Basement"
+    },
+    {
+        "id": 3,
+        "name": "Ravenclaw",
+        "founder": "Rowena Ravenclaw",
+        "animal": "eagle",
+        "traits": "wise",
+        "colors": ["blue", "bronze"],
+        "ghost": "Grey Lady",
+        "room": "Ravenclaw Tower"
+    },
+    {
+        "id": 4,
+        "name": "Slytherin",
+        "founder": "Salazar Slytherin",
+        "animal": "snake",
+        "traits": "cunning",
+        "colors": ["green", "silver"],
+        "ghost": "Bloody Baron",
+        "room": "Slytherin Dungeon"
+    }
+]
