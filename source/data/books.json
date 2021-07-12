@@ -21,7 +21,8 @@
             "Through the Trapdoor",
             "The Man with Two Faces"
         ],
-        "chapters_amount": 17
+        "chapters_amount": 17,
+        "img": "https://hp---api.herokuapp.com/images/books/hp1.jpg"
     },
     {
         "id": 2,
@@ -46,7 +47,8 @@
             "The Heir of Slytherin",
             "Dobby's Reward"
         ],
-        "chapters_amount": 18
+        "chapters_amount": 18,
+        "img": "https://hp---api.herokuapp.com/images/books/hp2.jpg"
     },
     {
         "id": 3,
@@ -75,7 +77,8 @@
             "Hermione's Secret",
             "Owl Post Again"
         ],
-        "chapters_amount": 22
+        "chapters_amount": 22,
+        "img": "https://hp---api.herokuapp.com/images/books/hp3.jpg"
     },
     {
         "id": 4,
@@ -119,7 +122,8 @@
             "The Parting of the Ways",
             "The Beginning"
         ],
-        "chapters_amount": 37
+        "chapters_amount": 37,
+        "img": "https://hp---api.herokuapp.com/images/books/hp4.jpg"
     },
     {
         "id": 5,
@@ -164,7 +168,8 @@
             "The Lost Prophecy",
             "The Second War Begins"
         ],
-        "chapters_amount": 38
+        "chapters_amount": 38,
+        "img": "https://hp---api.herokuapp.com/images/books/hp5.jpg"
     },
     {
         "id": 6,
@@ -201,7 +206,8 @@
             "The Phoenix Lament",
             "The White Tomb"
         ],
-        "chapters_amount": 30
+        "chapters_amount": 30,
+        "img": "https://hp---api.herokuapp.com/images/books/hp6.jpg"
     },
     {
         "id": 7,
@@ -245,6 +251,7 @@
             "The Flaw in the Plan",
             "Nineteen Years Later"
         ],
-        "chapters_amount": 37
+        "chapters_amount": 37,
+        "img": "https://hp---api.herokuapp.com/images/books/hp7.jpg"
     }
 ]
