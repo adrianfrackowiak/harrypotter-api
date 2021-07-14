@@ -1,0 +1,526 @@
+[
+    {
+        "id": 1,
+        "question": "Dawn or dusk?",
+        "answers": {
+            "first": {
+                "name": "Dawn",
+                "gryffindor": 100,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "Dusk",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 2,
+        "question": "Forest or river?",
+        "answers": {
+            "first": {
+                "name": "Forest",
+                "gryffindor": 100,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "River",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 3,
+        "question": "Moon or stars?",
+        "answers": {
+            "first": {
+                "name": "Moon",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "second": {
+                "name": "Stars",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            }
+        }
+    },
+    {
+        "id": 4,
+        "question": "Which of the following would you most hate people to call you?",
+        "answers": {
+            "first": {
+                "name": "Ordinary",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "second": {
+                "name": "Ignorant",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "Cowardly",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "Selfish",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            }
+        }
+    },
+    {
+        "id": 5,
+        "question": "After you have died, what would you most like people to do when they hear your name?",
+        "answers": {
+            "first": {
+                "name": "Miss you, but smile",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "Ask for more stories about your adventures",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "Think with admiration of your achievements",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "I don't care what people think of me after I'm dead, it's what they think of me while I'm alive that counts",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 6,
+        "question": "How would you like to be known to history?",
+        "answers": {
+            "first": {
+                "name": "The Good",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "The Bold",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "The Wise",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "The Great",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 7,
+        "question": "Given the choice, would you rather invent a potion that would guarantee you:",
+        "answers": {
+            "first": {
+                "name": "Love?",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "Glory?",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "Wisdom?",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "Power?",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 8,
+        "question": "Once every century, the Flutterby bush produces flowers that adapt their scent to attract the unwary. If it lured you, it would smell of:",
+        "answers": {
+            "first": {
+                "name": "Home",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "A crackling log fire",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "Fresh parchment",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "The sea",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 9,
+        "question": "Four goblets are placed before you. Which would you choose to drink?",
+        "answers": {
+            "first": {
+                "name": "The smooth, thick, richly purple drink that gives off a delicious smell of chocolate and plums.",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "The golden liquid so bright that it hurts the eye, and which makes sunspots dance all around the room.",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "The foaming, frothing, silvery liquid that sparkles as though containing ground diamonds.",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "The mysterious black liquid that gleams like ink, and gives off fumes that make you see strange visions.",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 10,
+        "question": "Four boxes are placed before you. Which would you try and open?",
+        "answers": {
+            "first": {
+                "name": "The small tortoiseshell box, embellished with gold, inside which some small creature seems to be squeaking.",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "The small pewter box, unassuming and plain, with a scratched message upon it that reads ‘I open only for the worthy.",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "The ornate golden casket, standing on clawed feet, whose inscription warns that both secret knowledge and unbearable temptation lie within.",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "The gleaming jet black box with a silver lock and key, marked with a mysterious rune that you know to be the mark of Merlin.",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 11,
+        "question": "Which of the following do you find most difficult to deal with?",
+        "answers": {
+            "first": {
+                "name": "Hunger",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "Cold",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 100
+            },
+            "third": {
+                "name": "Loneliness",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "Boredom",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "fifth": {
+                "name": "Being ignored",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 12,
+        "question": "Which would you rather be:",
+        "answers": {
+            "first": {
+                "name": "Envied",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "second": {
+                "name": "Imitated",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "Trusted",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "Praised",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 50
+            },
+            "fifth": {
+                "name": "Liked",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "sixth": {
+                "name": "Feared",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            }
+        }
+    },
+    {
+        "id": 13,
+        "question": "If you could have any power, which would you choose?",
+        "answers": {
+            "first": {
+                "name": "The power to read minds",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "second": {
+                "name": "The power of invisibility",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 50,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "The power of superhuman strength",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 50
+            },
+            "fourth": {
+                "name": "The power to speak to animals",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "fifth": {
+                "name": "The power to change the past",
+                "gryffindor": 50,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "sixth": {
+                "name": "The power to change your appearance at will",
+                "gryffindor": 50,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            }
+        }
+    },
+    {
+        "id": 14,
+        "question": "What are you most looking forward to learning at Hogwarts?",
+        "answers": {
+            "first": {
+                "name": "Apparition and Disapparition (being able to materialize and dematerialize at will)",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "second": {
+                "name": "Transfiguration (turning one object into another object)",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "third": {
+                "name": "Flying on a broomstick",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "Hexes and jinxes",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "fifth": {
+                "name": "All about magical creatures, and how to befriend/care for them",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "sixth": {
+                "name": "Secrets about the castle",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "sevent": {
+                "name": "Every area of magic I can",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            }
+        }
+    },
+    {
+        "id": 15,
+        "question": "Which road tempts you most?",
+        "answers": {
+            "first": {
+                "name": "The wide, sunny, grassy lane",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 100,
+                "slytherin": 0
+            },
+            "second": {
+                "name": "The narrow, dark, lantern-lit alley",
+                "gryffindor": 0,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 100
+            },
+            "third": {
+                "name": "The twisting, leaf-strewn path through woods",
+                "gryffindor": 100,
+                "ravenclaw": 0,
+                "hufflepuff": 0,
+                "slytherin": 0
+            },
+            "fourth": {
+                "name": "The cobbled street lined with ancient buildings",
+                "gryffindor": 0,
+                "ravenclaw": 100,
+                "hufflepuff": 0,
+                "slytherin": 0
+            }
+        }
+    }
+]
