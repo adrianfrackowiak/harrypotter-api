@@ -1,0 +1,170 @@
+[
+    {
+        "id": 1,
+        "name": "Harry Potter",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "name": "Hermione Granger",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "name": "Ron Weasley",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "name": "Albus Dumbledore",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "name": "Minerva McGonagall",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "name": "Neville Longbottom",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "name": "Dean Thomas",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "name": "Seamus Finnigan",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "name": "Remus Lupin",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "name": "Sirius Black",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 11,
+        "name": "Rubeus Hagrid",
+        "house": "Gryffindor",
+        "image": ""
+    },
+    {
+        "id": 12,
+        "name": "Severus Snape",
+        "house": "Slytherin",
+        "image": ""
+    },
+    {
+        "id": 13,
+        "name": "Lord Voldemort",
+        "house": "Slytherin",
+        "image": ""
+    },
+    {
+        "id": 14,
+        "name": "Draco Malfoy",
+        "house": "Slytherin",
+        "image": ""
+    },
+    {
+        "id": 15,
+        "name": "Horace Slughorn",
+        "house": "Slytherin",
+        "image": ""
+    },
+    {
+        "id": 16,
+        "name": "Bellatrix Lestrange",
+        "house": "Slytherin",
+        "image": ""
+    },
+    {
+        "id": 17,
+        "name": "Merlin",
+        "house": "Slytherin",
+        "image": ""
+    },
+    {
+        "id": 18,
+        "name": "Luna Lovegood",
+        "house": "Ravenclaw",
+        "image": ""
+    },
+    {
+        "id": 19,
+        "name": "Sybill Trelawney",
+        "house": "Ravenclaw",
+        "image": ""
+    },
+    {
+        "id": 20,
+        "name": "Cho Chang",
+        "house": "Ravenclaw",
+        "image": ""
+    },
+    {
+        "id": 21,
+        "name": "Gilderoy Lockhart",
+        "house": "Ravenclaw",
+        "image": ""
+    },
+    {
+        "id": 22,
+        "name": "Quirinus Quirrell",
+        "house": "Ravenclaw",
+        "image": ""
+    },
+    {
+        "id": 23,
+        "name": "Filius Flitwick",
+        "house": "Ravenclaw",
+        "image": ""
+    },
+    {
+        "id": 24,
+        "name": "Cedric Diggory",
+        "house": "Hufflepuff",
+        "image": ""
+    },
+    {
+        "id": 25,
+        "name": "Newt Scamander",
+        "house": "Hufflepuff",
+        "image": ""
+    },
+    {
+        "id": 26,
+        "name": "Nymphadora Tonks",
+        "house": "Hufflepuff",
+        "image": ""
+    },
+    {
+        "id": 27,
+        "name": "Pomona Sprout",
+        "house": "Hufflepuff",
+        "image": ""
+    },
+    {
+        "id": 28,
+        "name": "Justin Finch-Fletchley",
+        "house": "Hufflepuff",
+        "image": ""
+    }
+]
